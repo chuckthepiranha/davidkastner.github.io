@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "David Kastner"
-  avatar           : "profile.png"
+  avatar           : "profile.PNG"
   bio              : "Computational Chemistry"
   location         : "Salt Lake City, UT"
   employer         :
