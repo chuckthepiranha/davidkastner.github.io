@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "David Kastner"
-  avatar           : "profile.PNG"
+  avatar           : "profile.png"
   bio              : "MIT Bioengineering"
   location         : "Salt Lake City, UT"
   employer         :
