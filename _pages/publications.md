@@ -5,13 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
----
-layout: archive
-title: "Publications"
-permalink: /publications/
-author_profile: true
----
-
 <em>If you do not have journal access for any of the papers below, send me an email and I will gladly provide a copy of the manuscript.</em>
 
 <table>
