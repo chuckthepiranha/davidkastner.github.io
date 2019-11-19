@@ -31,13 +31,14 @@ author_profile: true
   <tr><th></th><td>
     <a href="https://speeches.byu.edu/talks/david-w-kastner/the-ultimate-triumph-of-truth/" target="_blank">
       <u>Kastner, D. W.</u> 
-      &ldquo;"The Ultimate Triumph of Truth"&rdquo;, 
+      &ldquo;The Ultimate Triumph of Truth&rdquo;, 
       <em>BYU Speeches </em>
       University Commencement, (<strong>2019</strong>).
     </a>
     <a style="color:blue" href="https://speeches.byu.edu/wp-content/uploads/pdf/Comm_2019_Kastner.pdf" target="_blank">[print]</a>
-    <a style="color:blue" href="https://news.byu.edu/news/part-search-q-student-commencement-speaker" target="_blank">[BYU News]</a>
     <a style="color:blue" href="https://www.youtube.com/watch?v=qFgQOzBn8AQ" target="_blank">[video]</a>
+    <a style="color:blue" href="https://news.byu.edu/news/part-search-q-student-commencement-speaker" target="_blank">[BYU News]</a>
+    <a style="color:blue" href="https://napavalleyregister.com/announcements/grapevine/grapevines-kastner-chosen-as-commencement-speaker-at-byu/article_c57a228f-1f16-58c2-b068-ba68445f59e6.html" target="_blank">[Napa Register]</a>
   </td></tr>
 
   <tr><th></th><td>
