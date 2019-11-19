@@ -23,7 +23,7 @@ author_profile: true
     <a href="http://www.jbc.org/content/early/2019/11/05/jbc.RA119.011297" target="_blank">
       Morris, D. L., <u>Kastner, D. W.</u>, Johnson, S., Strub, M., He, Y., Bleck, C. K., Lee, D., Tjandra, N. 
       &ldquo;Humanin induces conformational changes in the apoptosis regulator BAX and sequesters it into fibers, preventing mitochondrial outer-membrane permeabilization&rdquo; 
-      <em>Journal of Biological Chemistry </em>
+      <em>Journal of Biological Chemistry.</em>
       <strong>xxx</strong>(xxx), (<strong>2019</strong>).
     </a> 
   </td></tr>
@@ -40,13 +40,15 @@ author_profile: true
   <tr><th>2017</th><td>
     <a href="https://pubs.acs.org/doi/10.1021/acscentsci.8b00357" target="_blank">Ashraf, N. M., Imran, K., <u>Kastner, D. W</u>., Ikram, K., Mushtaq, A., Hussain, A., Zeeshan. N. &ldquo;Potential involvement of mi-RNA 574-3p in progression of prostate cancer: A bioinformatic study.&rdquo; 
       <em>Mol. Cell Probes. </em>
-      <strong>36</strong>(11), 21-28 (<strong>2017</strong>).</a> 
+      <strong>36</strong>(11), 21-28 (<strong>2017</strong>).
+    </a> 
   </td></tr>
   
   <tr><th></th><td>
     <a href="https://pubs.acs.org/doi/abs/10.1021/acs.orglett.7b02455" target="_blank">Jalan, A., <u>Kastner, D. W.</u>, Webber, K. G. I., Smith, M., Price, J. L., Castle, S. L. &ldquo;Bulky Dehydroamino Acids Enhance Proteolytic Stability and Folding in β-Hairpin Peptides.&rdquo;
       <em>Org. Lett. </em>
-      <strong>19</strong>(19), 5190-5193 (<strong>2018</strong>).</a>
+      <strong>19</strong>(19), 5190-5193 (<strong>2018</strong>).
+    </a>
   </td></tr><u>
   
 </table>
