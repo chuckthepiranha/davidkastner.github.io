@@ -23,7 +23,7 @@ author_profile: true
     <a href="http://www.jbc.org/content/early/2019/11/05/jbc.RA119.011297" target="_blank">
       Morris, D. L., <u>Kastner, D. W.</u>, Johnson, S., Strub, M., He, Y., Bleck, C. K., Lee, D., Tjandra, N. 
       &ldquo;Humanin induces conformational changes in the apoptosis regulator BAX and sequesters it into fibers, preventing mitochondrial outer-membrane permeabilization&rdquo; 
-      <em>Journal of Biological Chemistry.</em>
+      <em>Journal of Biological Chemistry </em>
       <strong>xxx</strong>(xxx), (<strong>2019</strong>).
     </a> 
   </td></tr>
@@ -32,7 +32,7 @@ author_profile: true
     <a href="https://www.sciencedirect.com/science/article/pii/S0141813018356265" target="_blank">
       Ashraf, N. M., Krishnagopal, A., Hussain, A., <u>Kastner, D. W.</u>, Mahmoud, A., Sayed, M., Mok, Y., Swaminathan, K., Zeeshan, N.
       &ldquo;Engineering of serine protease for improved thermostability and catalytic activity using rational design&rdquo; 
-      <em>Int. J. Biol. Macromol.</em> 
+      <em>Int. J. Biol. Macromol. </em> 
       <strong>126</strong>(229-237), (<strong>2019</strong>).
     </a>
   </td></tr>
@@ -49,7 +49,7 @@ author_profile: true
       <em>Org. Lett. </em>
       <strong>19</strong>(19), 5190-5193 (<strong>2018</strong>).
     </a>
-  </td></tr><u>
+  </td></tr>
   
 </table>
 
