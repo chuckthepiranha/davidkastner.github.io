@@ -42,7 +42,7 @@ author_profile: true
   </td></tr>
   
   <tr><th></th><td>
-<a href="http://pubs.rsc.org/en/content/articlelanding/2018/cc/c8cc04650f" target="_blank">Zhu, C., Raghuvanshi, K., <u>Coley, C. W</u>., Mason, D., Rodgers, J., Janka, M. E., Abolhasani, M. &ldquo;Flow chemistry-enabled studies of rhodium-catalyzed hydroformylation reactions.&rdquo; <em>Chem. Comm. </em><strong>54</strong>(62), 8567-8570 (<strong>2018</strong>).</a>
-  </td></tr>
+<a href="https://pubs.acs.org/doi/abs/10.1021/acs.orglett.7b02455" target="_blank">Jalan, A., <u>Kastner, D. W.</u>, Webber, K. G. I., Smith, M., Price, J. L., Castle, S. L. &ldquo;Bulky Dehydroamino Acids Enhance Proteolytic Stability and Folding in β-Hairpin Peptides.&rdquo; <em>Org. Lett. </em><strong>19</strong>(19), 5190-5193 (<strong>2018</strong>).</a>
+  </td></tr><u>
   
 </table>
