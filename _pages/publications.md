@@ -38,7 +38,7 @@ author_profile: true
   </td></tr>
   
  <tr><th>2017</th><td>
-<a href="https://pubs.acs.org/doi/10.1021/acscentsci.8b00357" target="_blank">Gao, H., Struble, T. J., <u>Coley, C. W</u>., Wang, Y., Green, W. H., Jensen, K. F. &ldquo;Using machine learning to predict suitable conditions for organic reactions.&rdquo; <em>ACS Cent. Sci. </em><strong>4</strong>(11), 1465-1476 (<strong>2018</strong>).</a> <a style="color:blue" href="https://github.com/Coughy1991/Reaction_condition_recommendation" target="_blank">[code]</a>
+<a href="https://pubs.acs.org/doi/10.1021/acscentsci.8b00357" target="_blank">Ashraf, N. M., Imran, K., <u>Kastner, D. W</u>., Ikram, K., Mushtaq, A., Hussain, A., Zeeshan. N. &ldquo;Potential involvement of mi-RNA 574-3p in progression of prostate cancer: A bioinformatic study.&rdquo; <em>Mol. Cell Probes. </em><strong>36</strong>(11), 21-28 (<strong>2017</strong>).</a> 
   </td></tr>
   
   <tr><th></th><td>
