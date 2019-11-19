@@ -11,7 +11,7 @@ author_profile: true
   
   <tr><th>2019</th><td>
     <a href="http://www.jbc.org/content/early/2019/11/05/jbc.RA119.011297" target="_blank">
-      <u>Morris, D. L.</u>, Kastner, D. W., Johnson, S., Strub, M., He, Y., Bleck, C. K., Lee, D., Tjandra, N. 
+      Morris, D. L., <u>Kastner, D. W.</u>, Johnson, S., Strub, M., He, Y., Bleck, C. K., Lee, D., Tjandra, N. 
       &ldquo;Humanin induces conformational changes in the apoptosis regulator BAX and sequesters it into fibers, preventing mitochondrial outer-membrane permeabilization&rdquo; 
       <em>Journal of Biological Chemistry </em>
       <strong>365</strong>(6453), eaax1566  (<strong>2019</strong>).
