@@ -11,6 +11,16 @@ author_profile: true
   
   <tr><th>2019</th><td>
     <a href="http://www.jbc.org/content/early/2019/11/05/jbc.RA119.011297" target="_blank">
+      Joaquin, D., Lee, M., <u>Kastner, W. D.,</u> Singh, J., Shardon, D., Damstedt, G., Castle, S.
+      &ldquo;Impact of Dehydroamino Acids on the Structure and Stability of Incipient 3<sub></sub>10-Helical Peptides&rdquo; 
+      <em>The Journal of Organic Chemistry </em>
+      <strong>365</strong>(6453), (<strong>2019</strong>).
+    </a> 
+    <a style="color:blue" href="https://chemrxiv.org/s/c3ceb27a7adb6d7e0acb" target="_blank">[preprint]</a>
+  </td></tr>
+  
+  <tr><th>2019</th><td>
+    <a href="http://www.jbc.org/content/early/2019/11/05/jbc.RA119.011297" target="_blank">
       Morris, D. L., <u>Kastner, D. W.</u>, Johnson, S., Strub, M., He, Y., Bleck, C. K., Lee, D., Tjandra, N. 
       &ldquo;Humanin induces conformational changes in the apoptosis regulator BAX and sequesters it into fibers, preventing mitochondrial outer-membrane permeabilization&rdquo; 
       <em>Journal of Biological Chemistry </em>
