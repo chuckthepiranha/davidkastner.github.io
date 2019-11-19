@@ -10,10 +10,10 @@ author_profile: true
 <table>
   
   <tr><th>2019</th><td>
-    <a href="https://science.sciencemag.org/content/365/6453/eaax1566" target="_blank">
-      <u>Coley, C. W.</u>*, Thomas III, D. A.*, Lummiss, J. A. M.*, Jaworski, J. N., Breen, C. P., Schultz, V., Hart, T., Fishman, J. S., Rogers, L., Gao, H., Hicklin, R. W., Plehiers, P. P., Byington, J., Piotti, J. S., Green, W. H., Hart, A. J., Jamison, T. F., Jensen, K. F. 
-      &ldquo;A robotic platform for flow synthesis of organic compounds informed by AI planning&rdquo; 
-      <em>Science </em>
+    <a href="http://www.jbc.org/content/early/2019/11/05/jbc.RA119.011297" target="_blank">
+      <u>Morris, D. L.</u>, Kastner, D. W., Johnson, S., Strub, M., He, Y., Bleck, C. K., Lee, D., Tjandra, N. 
+      &ldquo;Humanin induces conformational changes in the apoptosis regulator BAX and sequesters it into fibers, preventing mitochondrial outer-membrane permeabilization&rdquo; 
+      <em>Journal of Biological Chemistry </em>
       <strong>365</strong>(6453), eaax1566  (<strong>2019</strong>).
     </a> 
     <a style="color:blue" href="http://news.mit.edu/2019/automate-molecule-production-ai-0808" target="_blank">[MIT press] </a>
