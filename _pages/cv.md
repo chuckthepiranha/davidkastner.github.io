@@ -1,1 +1,1 @@
-<a href="newsletter_01.pdf" target="_blank">Read more</a>
+<a href="files/CV.pdf" target="_blank">CV</a>
