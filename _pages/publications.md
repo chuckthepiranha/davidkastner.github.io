@@ -19,13 +19,12 @@ author_profile: true
   </td></tr>
 
   <tr><th></th><td>
-    <a href="https://pubs.acs.org/doi/abs/10.1021/acs.jcim.9b00237" target="_blank">
-      Yang, K.*, Swanson, K.*, Jin, W., <u>Coley, C. W.</u>, Eiden, P., Gao, H., Guzman-Perez, A., Hopper, Tm., Kelley, B., Mathea, M., Palmer, A., Settels, V., Jaakkola, T., Jensen, K. F., Barzilay, R.
-      &ldquo;Analyzing learned molecular representations for property prediction&rdquo; 
-      <em>J. Chem. Inf. Model.</em> 
+    <a href="https://www.sciencedirect.com/science/article/pii/S0141813018356265" target="_blank">
+      Ashraf, N. M., Krishnagopal, A., Hussain, A., <u>Kastner, D. W.</u>, Mahmoud, A., Sayed, M., Mok, Y., Swaminathan, K., Zeeshan, N.
+      &ldquo;Engineering of serine protease for improved thermostability and catalytic activity using rational design&rdquo; 
+      <em>Int. J. Biol. Macromol.</em> 
       (<strong>2019</strong>).
-    </a> 
-    <a style="color:blue" href="https://arxiv.org/abs/1904.01561" target="_blank">[preprint]</a>
+    </a>
   </td></tr>
 
   <tr><th></th><td>
