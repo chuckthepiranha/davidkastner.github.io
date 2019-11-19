@@ -49,6 +49,7 @@ author_profile: true
       <em>Org. Lett. </em>
       <strong>19</strong>(19), 5190-5193 (<strong>2018</strong>).
     </a>
+    <a style="color:blue" href="https://scholarsarchive.byu.edu/library_studentposters_2017/" target="_blank">[poster]</a>
   </td></tr>
   
 </table>
