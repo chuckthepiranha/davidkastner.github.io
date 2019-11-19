@@ -29,12 +29,15 @@ author_profile: true
   </td></tr>
 
   <tr><th></th><td>
-    <a href="https://speeches.byu.edu/wp-content/uploads/pdf/Comm_2019_Kastner.pdf" target="_blank">
+    <a href="https://speeches.byu.edu/talks/david-w-kastner/the-ultimate-triumph-of-truth/" target="_blank">
       <u>Kastner, D. W.</u> 
       &ldquo;The Ultimate Triumph of Truth&rdquo; 
       <em>BYU Speeches </em>
       <strong>University Commencement</strong>(xxx), (<strong>2019</strong>).
-    </a> 
+    </a>
+    <a style="color:blue" href="https://speeches.byu.edu/wp-content/uploads/pdf/Comm_2019_Kastner.pdf" target="_blank">[print]</a>
+    <a style="color:blue" href="https://news.byu.edu/news/part-search-q-student-commencement-speaker" target="_blank">[BYU News]</a>
+    <a style="color:blue" href="https://www.youtube.com/watch?v=qFgQOzBn8AQ" target="_blank">[video]</a>
   </td></tr>
 
   <tr><th></th><td>
