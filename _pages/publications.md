@@ -33,7 +33,7 @@ author_profile: true
       <u>Kastner, D. W.</u> 
       &ldquo;"The Ultimate Triumph of Truth"&rdquo;, 
       <em>BYU Speeches </em>
-      <strong>University Commencement</strong>, (<strong>2019</strong>).
+      University Commencement, (<strong>2019</strong>).
     </a>
     <a style="color:blue" href="https://speeches.byu.edu/wp-content/uploads/pdf/Comm_2019_Kastner.pdf" target="_blank">[print]</a>
     <a style="color:blue" href="https://news.byu.edu/news/part-search-q-student-commencement-speaker" target="_blank">[BYU News]</a>
