@@ -31,7 +31,7 @@ author_profile: true
   <tr><th></th><td>
     <a href="https://speeches.byu.edu/talks/david-w-kastner/the-ultimate-triumph-of-truth/" target="_blank">
       <u>Kastner, D. W.</u> 
-      &ldquo;The Ultimate Triumph of Truth&rdquo;, 
+      &ldquo;The Ultimate Triumph of Truth,&rdquo;
       <em>BYU Speeches </em>,
       University Commencement, (<strong>2019</strong>).
     </a>
