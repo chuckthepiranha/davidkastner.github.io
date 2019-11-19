@@ -16,9 +16,6 @@ author_profile: true
       <em>Journal of Biological Chemistry </em>
       <strong>365</strong>(6453), eaax1566  (<strong>2019</strong>).
     </a> 
-    <a style="color:blue" href="http://news.mit.edu/2019/automate-molecule-production-ai-0808" target="_blank">[MIT press] </a>
-    <a style="color:blue" href="https://cen.acs.org/synthesis/Automating-synthesis-planning-execution/97/i32" target="_blank">[C&amp;EN press] </a>
-    <a style="color:blue" href="https://www.chemistryworld.com/news/are-synthetic-chemists-out-of-a-job-as-ai-meets-automation/3010812.article" target="_blank">[Chemistry World press] </a>
   </td></tr>
 
   <tr><th></th><td>
