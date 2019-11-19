@@ -34,7 +34,6 @@ author_profile: true
       &ldquo;Engineering of serine protease for improved thermostability and catalytic activity using rational design&rdquo; 
       <em>Int. J. Biol. Macromol.</em> 
       <strong>126</strong>(229-237), (<strong>2019</strong>).
-      <strong>2019</strong>.
     </a>
   </td></tr>
   
