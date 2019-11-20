@@ -4,4 +4,4 @@ excerpt: "Probing the structure-function relationship of peptides structure and 
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+We show that tetra-substituted dehydroamino acids are able to stabilize peptides against proteolysis by favoring the folded β‐hairpin structural motif. Suggests possible applications in stabilizing cancer peptide therapeutics.
