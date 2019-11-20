@@ -1,6 +1,7 @@
 ---
 title: "Small Molecule and Peptide Design"
-excerpt: "Probing the structure-function relationship of peptides structure and function though synthesis and computational methods<br/><img src='/images/500x300.png'>"
+excerpt: 
+<img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
