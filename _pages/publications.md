@@ -7,6 +7,8 @@ author_profile: true
 
 <em>If you do not have journal access for any of the papers below, send me an email and I will gladly provide a copy of the manuscript.</em>
 
+<hr class="styled-hr" style="width:100%;">
+
 <table>
   
   <tr><th>2019</th><td>
@@ -49,8 +51,6 @@ author_profile: true
       <strong>126</strong>(229-237), (<strong>2019</strong>).
     </a>
   </td></tr>
-  
-  <hr class="styled-hr" style="width:100%;">
   
   <tr><th>2017</th><td>
     <a href="https://pubs.acs.org/doi/10.1021/acscentsci.8b00357" target="_blank">Ashraf, N. M., Imran, K., <u>Kastner, D. W</u>., Ikram, K., Mushtaq, A., Hussain, A., Zeeshan. N. &ldquo;Potential involvement of mi-RNA 574-3p in progression of prostate cancer: A bioinformatic study.&rdquo; 
