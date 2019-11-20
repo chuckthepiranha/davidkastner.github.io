@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Small Molecule and Peptide Design"
+excerpt: "Understanding peptide structure and function though synthesis and computational methods<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
