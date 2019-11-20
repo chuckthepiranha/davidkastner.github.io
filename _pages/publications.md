@@ -50,6 +50,8 @@ author_profile: true
     </a>
   </td></tr>
   
+  <hr class="styled-hr" style="width:100%;">
+  
   <tr><th>2017</th><td>
     <a href="https://pubs.acs.org/doi/10.1021/acscentsci.8b00357" target="_blank">Ashraf, N. M., Imran, K., <u>Kastner, D. W</u>., Ikram, K., Mushtaq, A., Hussain, A., Zeeshan. N. &ldquo;Potential involvement of mi-RNA 574-3p in progression of prostate cancer: A bioinformatic study.&rdquo; 
       <em>Mol. Cell Probes. </em>
