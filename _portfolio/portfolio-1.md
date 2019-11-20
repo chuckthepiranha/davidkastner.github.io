@@ -1,6 +1,6 @@
 ---
 title: "Small Molecule and Peptide Design"
-excerpt: "<br/><img src='/images/500x300.png'><br/>"
+excerpt: "<img src='/images/500x300.png'><br/>"
 collection: portfolio
 ---
 
