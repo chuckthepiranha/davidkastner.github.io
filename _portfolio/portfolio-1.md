@@ -10,4 +10,4 @@ In recent years, proteolytically stable peptides have become more prevalent due 
 
 <a style="color:blue" href="https://pubs.acs.org/doi/abs/10.1021/acs.orglett.7b02455">Jalan, A., Kastner, D. W., Webber, K. G. I., Smith, M., Price, J. L., Castle, S. L. “Bulky Dehydroamino Acids Enhance Proteolytic Stability and Folding in β-Hairpin Peptides.” Org. Lett. 19(19), 5190-5193 (2018).</a>
 
-<a style="color:blue" href="https://scholarsarchive.byu.edu/library_studentposters_2017/4/">Kastner, D. W., Ankur, J., Castle, S. L. “Computational Predictions of β-Hairpins Containing Bulky Dehydroamino Acids.” ScholarsArchive. 2572-4479 (2017).</a>
+<a style="color:blue" href="https://scholarsarchive.byu.edu/library_studentposters_2017/4/">Kastner, D. W., Ankur, J., Castle, S. L. “Computational Predictions of β-Hairpins Containing Bulky Dehydroamino Acids.” ScholarsArchive, 2572-4479 (2017).</a>
