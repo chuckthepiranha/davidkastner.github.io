@@ -10,3 +10,6 @@ Yaku'amide presents itself as a protypical example of such cases becuase its seq
 
 <strong>Related Publications:</strong><br/>
 <a style="color:blue" href="http://jur.byu.edu/?p=23292">Kastner, D. W., Castle, S. L. “ONIOM(DFT:MM) Study of Yaku'amide A and Analogues.” Journal of Undergraduate Research, ORCA (2018).</a>
+
+<a style="color:blue" href="https://scholarsarchive.byu.edu/library_studentposters_2018/1/">Kastner, D. W., Ankur, J., Castle, S. L. “Progress Toward Synthetically Simplified Natural Anticancer Peptide.” ScholarsArchive, 2572-4479 (2018).</a>
+
