@@ -1,6 +1,6 @@
 ---
 title: "Small Molecule and Peptide Design"
-excerpt: "<strong>Keywords:</strong> CYANA, peptides, NOESY, dehydroamino acids, simulated annealing<img src='/images/betahairpin_2500.png' width='500' height='300'><br/>"
+excerpt: "<strong>Keywords:</strong> CYANA, NOESY, dehydroamino acids, peptides, simulations<img src='/images/betahairpin_2500.png' width='500' height='300'><br/>"
 collection: portfolio
 ---
 
