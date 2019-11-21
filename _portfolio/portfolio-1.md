@@ -1,6 +1,6 @@
 ---
 title: "Small Molecule and Peptide Design"
-excerpt: "<img src='images/betahairpin_2500.png'><br/>"
+excerpt: "<img src='/images/betahairpin_2500.png'><br/>"
 collection: portfolio
 ---
 
