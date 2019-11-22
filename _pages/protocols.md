@@ -9,7 +9,7 @@ redirect_from:
 
 <h2><a href="http://www.jbc.org/content/early/2019/11/05/jbc.RA119.011297" target="_blank">Immunohistochemistry (IHC)</a></h2>
 <a href="http://www.jbc.org/content/early/2019/11/05/jbc.RA119.011297" target="_blank">
-A protocol for the detection of antigens using antibodies in a tissue section.
+A protocol for the detection of antigens using antibodies in a tissue section. This protocol was optimized for small-cell lung cancer mouse tissue samples.
 <img src='/images/betahairpin_2500.png' width='500' height='300'>
 </a> 
 
