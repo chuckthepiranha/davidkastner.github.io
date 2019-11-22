@@ -1,7 +1,7 @@
 ---
 title: "Small Molecule and Peptide Design"
 excerpt: "<strong>Keywords:</strong> CYANA, NOESY, dehydroamino acids, peptides, simulations<img src='/images/betahairpin_2500.png' width='500' height='300'><br/>"
-collection: portfolio
+collection: research
 ---
 
 Peptides present themselves as phenomenal drug candidates, but the development of novel peptide and protein-based drugs has been slow due to the body’s natural pathways for degrading them through proteolysis. Traditionally, protein engineering has been limited to the 20 standard amino acids. Attempts to engineer additional variation into the diversity of natural protein functionality have been achieved predominantly by reordering primary sequences.1 Peptide design, however, has also benefited significantly from the synthetic incorporation of non-standard amino acids such as β-amino acids, D-amino acids, and α,β-dehydroamino acids (ΔAAs). The literature is replete with a diversity of ‘designer residues’ used to fine tune backbone conformations, side-chain functionality, and reactivity. 
