@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "MIT Bioengineering"
   location         : "Salt Lake City, UT"
-  employer         : Huntsman Cancer Institute
+  employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=PHK_EmkAAAAJ&hl=en"
   email            : "david.kastner@hci.utah.edu"
@@ -184,6 +184,12 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
+  research:
+    output: true
+    permalink: /:collection/:path/
+  protocols:
+    output: true
+    permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
@@ -231,6 +237,15 @@ defaults:
   - scope:
       path: ""
       type: portfolio
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _research
+  - scope:
+      path: ""
+      type: research
     values:
       layout: single
       author_profile: true
