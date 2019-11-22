@@ -1,7 +1,7 @@
 ---
 title: "Molecular Dynamics Simulations"
 excerpt: "Keywords: protein, structure-function, trajectory, AMBER, CHARMM<img src='/images/flex.png' width='500' height='300'>"
-collection: portfolio
+collection: protocols
 ---
 
 Yaku’amide A (YA) is an extremely rare peptide that was isolated from the deep-sea sponge Ceratopsion sp. Identification and characterization of this peptide unveiled its curious structural profile and its many non-standard amino acids and most noteablly dehydroamino acids. When tested against an array of 39 human cancer cell lines, YA exhibited notable cytotoxicity against P388 murine leukemia cells via a potentially novel mode of action. Many medically relevant peptides, such as Yaku'amide, often contain non-standard amino acids and require de novo parameters proir to computational studies.
