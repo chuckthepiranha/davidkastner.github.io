@@ -6,6 +6,7 @@ redirect_from:
   - /md/
   - /protocols.html
 ---
+
 <em>These are protocols that I have rewritten for routine techniques that I have used across various projects. Feel free to use any of them and don't hesitate to reach out if you have any suggestions.</em>
 
 <h2><a href="https://github.com/davidkastner" target="_blank">Immunohistochemistry (IHC)</a></h2>
