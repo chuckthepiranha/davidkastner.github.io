@@ -1,20 +1,20 @@
 # main links links
 main:
-  
+
   - title: "Research"
-    url: /portfolio/
+    url: /research/
 
   - title: "Publications"
-    url: /publications/    
+    url: /publications/
 
   - title: "CV"
     url: /files/CV.pdf
 
   - title: "Code"
-    url: /cv/    
-    
+    url: /cv/
+
   - title: "Protocols"
     url: /portfolio/
-    
+
   - title: "News"
     url: /markdown/
