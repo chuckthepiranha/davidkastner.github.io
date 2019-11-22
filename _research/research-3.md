@@ -1,6 +1,6 @@
 ---
 title: "Molecular Dynamics Simulations"
-excerpt: "Keywords: protein, structure-function, trajectory, AMBER, CHARMM<img src='/images/flex.png' width='500' height='300'>"
+excerpt: "<strong>Keywords:</strong> protein, structure-function, trajectory, AMBER, CHARMM<img src='/images/flex.png' width='500' height='300'>"
 collection: research
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "QM/MM Calculations"
-excerpt: "Keywords: cancer, QM/MM, AMBER, Gaussian, optimization, synthesis<img src='/images/structures.png' width='500' height='300'>"
+excerpt: "<strong>Keywords:</strong> cancer, QM/MM, AMBER, Gaussian, optimization, synthesis<img src='/images/structures.png' width='500' height='300'>"
 collection: research
 ---
 
@@ -12,4 +12,3 @@ Yaku'amide presents itself as a protypical example of such cases becuase its seq
 <a style="color:blue" href="http://jur.byu.edu/?p=23292">Kastner, D. W., Castle, S. L. “ONIOM(DFT:MM) Study of Yaku'amide A and Analogues.” Journal of Undergraduate Research, ORCA Grant (2018).</a>
 
 <a style="color:blue" href="https://scholarsarchive.byu.edu/library_studentposters_2018/1/">Kastner, D. W., Ankur, J., Castle, S. L. “Progress Toward Synthetically Simplified Natural Anticancer Peptide.” ScholarsArchive, 2572-4479 (2018).</a>
-
