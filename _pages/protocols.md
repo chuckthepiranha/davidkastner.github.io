@@ -12,5 +12,4 @@ redirect_from:
 A protocol for the detection of antigens using antibodies in a tissue section. This protocol was optimized for small-cell lung cancer mouse tissue samples.
 <img src='/images/betahairpin_2500.png' width='500' height='300'>
 </a> 
-
-
+<hr class="styled-hr" style="width:100%;">
