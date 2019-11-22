@@ -7,9 +7,10 @@ redirect_from:
   - /protocols.html
 ---
 
-<a href="http://www.jbc.org/content/early/2019/11/05/jbc.RA119.011297" target="_blank">## Immunohistochemistry (IHC)</a>
+[link](
+## Immunohistochemistry (IHC)[link](http://github.com "Github").
 A protocol for the detection of antigens using antibodies in a tissue section.
 <img src='/images/betahairpin_2500.png' width='500' height='300'>
-
+)
 
 <a style="color:blue" href="https://chemrxiv.org/s/c3ceb27a7adb6d7e0acb" target="_blank">[preprint]</a>
