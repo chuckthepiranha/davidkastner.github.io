@@ -251,6 +251,15 @@ defaults:
       author_profile: true
       share: true
       comment: true
+  # _protocols
+  - scope:
+      path: ""
+      type: protocols
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
   # _talks
   - scope:
       path: ""
