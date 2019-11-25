@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About"
+title: "I LOVE STEPHANIE SHE IS A BABE"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
