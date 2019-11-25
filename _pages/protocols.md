@@ -7,7 +7,7 @@ redirect_from:
   - /protocols.html
 ---
 
-<em>These are protocols that I have rewritten for routine techniques important to various projects. Feel free to use any of them and don't hesitate to reach out if you have any suggestions.</em>
+<em>These are protocols that I have written for routine techniques important to various projects. Feel free to use any of them and don't hesitate to reach out if you have any suggestions.</em>
 
 <h2><a href="/files/Protocols/IHC/IHC_v1.1.pdf" target="_blank">Immunohistochemistry (IHC)</a></h2>
 <a href="/files/Protocols/IHC/IHC_v1.1.pdf" target="_blank">
