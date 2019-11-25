@@ -13,16 +13,17 @@ author_profile: true
 
   <tr><th>2019</th><td>
     <a href="https://www.chem.byu.edu/static/media/uploads/2019_chemigram_.pdf" target="_blank">
-    <strong>“Mentored Undergraduate Research.”Title:</strong> <br/>
+    <strong>“Mentored Undergraduate Research.”</strong> <br/>
+    <style> p { text-indent: 2.0em;
     Publisher: BYU 2019 Chemigram<br/>
     Author: BYU Department of Chemistry and Biochemistry<br/>
-    Date: 28 August 2019<br/>
+    Date: 28 August 2019<br/>}
     </a>
   </td></tr>
 
   <tr><th></th><td>
     <a href="https://napavalleyregister.com/announcements/grapevine/grapevines-kastner-chosen-as-commencement-speaker-at-byu/article_c57a228f-1f16-58c2-b068-ba68445f59e6.html" target="_blank">
-    <strong>“Grapevines: Kastner Chosen as Commencement Speaker at BYU.”Title:</strong> <br/>
+    <strong>“Grapevines: Kastner Chosen as Commencement Speaker at BYU.''</strong> <br/>
     Publisher: Haley Gray<br/>
     Author: Napa Valley Register: Grapevine<br/>
     Date: 25 May 2019<br/>
@@ -31,19 +32,19 @@ author_profile: true
 
   <tr><th></th><td>
     <a href="https://news.byu.edu/news/part-search-q-student-commencement-speaker" target="_blank">
-    <strong>Title:</strong> <em>“Part of the search: A Q & A with the student commencement speaker.”</em><br/>
-    <strong>Publisher:</strong> BYU News<br/>
-    <strong>Author:</strong> Erica Ostergar<br/>
-    <strong>Date:</strong> 22 April 2019<br/>  
+    <strong>“Part of the search: A Q & A with the student commencement speaker.”</strong> <br/>
+    Publisher: BYU News<br/>
+    Author: Erica Ostergar<br/>
+    Date:22 April 2019<br/>  
     </a>
   </td></tr>
 
   <tr><th>2018</th><td>
     <a href="https://napavalleyregister.com/announcements/grapevine/grapevine-kastner-receives-fellowship-for-cancer-research/article_daeeeb8e-fa9a-5e7d-89ab-02630eed2f67.html" target="_blank">
-    <strong>Title:</strong> <em>“Grapevine: Kastner receives fellowship for cancer research.”</em><br/>
-    <strong>Publisher:</strong> Napa Valley Register: Grapevine<br/>
-    <strong>Author:</strong> Kelly Doren<br/>
-    <strong>Date:</strong> 22 April 2019<br/>  
+    <strong>“Grapevine: Kastner receives fellowship for cancer research.”</strong><br/>
+    Publisher: Napa Valley Register: Grapevine<br/>
+    Author: Kelly Doren<br/>
+    Date: 22 April 2019<br/>  
     </a>
   </td></tr>
 
