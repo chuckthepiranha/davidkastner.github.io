@@ -13,19 +13,19 @@ author_profile: true
 
   <tr><th>2019</th><td>
     <a href="https://www.chem.byu.edu/static/media/uploads/2019_chemigram_.pdf" target="_blank">
-    <strong>Title:</strong> <em>“Mentored Undergraduate Research.”</em><br/>
-    <strong>Publisher:</strong> BYU 2019 Chemigram<br/>
-    <strong>Author:</strong> BYU Department of Chemistry and Biochemistry<br/>
-    <strong>Date:</strong> 28 August 2019<br/>
+    <strong>“Mentored Undergraduate Research.”Title:</strong> <br/>
+    Publisher: BYU 2019 Chemigram<br/>
+    Author: BYU Department of Chemistry and Biochemistry<br/>
+    Date: 28 August 2019<br/>
     </a>
   </td></tr>
 
   <tr><th></th><td>
     <a href="https://napavalleyregister.com/announcements/grapevine/grapevines-kastner-chosen-as-commencement-speaker-at-byu/article_c57a228f-1f16-58c2-b068-ba68445f59e6.html" target="_blank">
     <strong>“Grapevines: Kastner Chosen as Commencement Speaker at BYU.”Title:</strong> <br/>
-    <strong>Publisher:</strong> Haley Gray<br/>
-    <strong>Author:</strong> Napa Valley Register: Grapevine<br/>
-    <strong>Date:</strong> 25 May 2019<br/>
+    Publisher: Haley Gray<br/>
+    Author: Napa Valley Register: Grapevine<br/>
+    Date: 25 May 2019<br/>
     </a>
   </td></tr>
 
