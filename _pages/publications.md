@@ -18,6 +18,7 @@ author_profile: true
     Publisher: BYU 2019 Chemigram<br/>
     Author: BYU Department of Chemistry and Biochemistry<br/>
     Date: 28 August 2019<br/>}
+    </style>
     </a>
   </td></tr>
 
