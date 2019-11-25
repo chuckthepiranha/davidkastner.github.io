@@ -16,7 +16,7 @@ author_profile: true
     <strong>“Mentored Undergraduate Research.”</strong> <br/>
     Publisher: BYU 2019 Chemigram<br/>
     Author: BYU Department of Chemistry and Biochemistry<br/>
-    Date: 28 August 2019<br/>}
+    Date: 28 August 2019<br/>
     </a>
   </td></tr>
 
