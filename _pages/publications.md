@@ -34,7 +34,7 @@ author_profile: true
     <strong>“Part of the search: A Q & A with the student commencement speaker.”</strong> <br/>
     Publisher: BYU News<br/>
     Author: Erica Ostergar<br/>
-    Date:22 April 2019<br/>  
+    Date: 22 April 2019<br/>  
     </a>
   </td></tr>
 
