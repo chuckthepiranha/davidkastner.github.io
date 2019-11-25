@@ -12,35 +12,56 @@ author_profile: true
 <table>
 
   <tr><th>2019</th><td>
+    <a href="https://www.chem.byu.edu/static/media/uploads/2019_chemigram_.pdf" target="_blank">
+    <strong>Title:</strong> <em>“Mentored Undergraduate Research.”</em><br/>
+    <strong>Publisher:</strong> BYU 2019 Chemigram<br/>
+    <strong>Author:</strong> BYU Department of Chemistry and Biochemistry<br/>
+    <strong>Date:</strong> 28 August 2019<br/>
+    </a>
+  </td></tr>
+
+  <tr><th></th><td>
     <a href="https://napavalleyregister.com/announcements/grapevine/grapevines-kastner-chosen-as-commencement-speaker-at-byu/article_c57a228f-1f16-58c2-b068-ba68445f59e6.html" target="_blank">
     <strong>Title:</strong> <em>“Grapevines: Kastner Chosen as Commencement Speaker at BYU.”</em><br/>
-    <strong>Publisher:</strong> Napa Register Grapevines<br/>
+    <strong>Publisher:</strong>Haley Gray<br/>
+    <strong>Author:</strong> Napa Valley Register: Grapevine<br/>
     <strong>Date:</strong> 25 May 2019<br/>
     </a>
   </td></tr>
 
   <tr><th></th><td>
-    <a href="https://www.chem.byu.edu/static/media/uploads/2019_chemigram_.pdf" target="_blank">
-      Morris, D. L., <u>Kastner, D. W.</u>, Johnson, S., Strub, M., He, Y., Bleck, C. K., Lee, D., Tjandra, N.
-      &ldquo;Humanin induces conformational changes in the apoptosis regulator BAX and sequesters it into fibers, preventing mitochondrial outer-membrane permeabilization&rdquo;
-      <em>Journal of Biological Chemistry </em>
-      <strong>xxx</strong>(xxx), (<strong>2019</strong>).
+    <a href="https://news.byu.edu/news/part-search-q-student-commencement-speaker" target="_blank">
+    <strong>Title:</strong> <em>“Part of the search: A Q & A with the student commencement speaker.”</em><br/>
+    <strong>Publisher:</strong> BYU News<br/>
+    <strong>Author:</strong> Erica Ostergar<br/>
+    <strong>Date:</strong> 22 April 2019<br/>  
     </a>
   </td></tr>
 
   <tr><th>2018</th><td>
-    <a href="https://www.sciencedirect.com/science/article/pii/S0890850817300695" target="_blank">Ashraf, N. M., Imran, K., <u>Kastner, D. W</u>., Ikram, K., Mushtaq, A., Hussain, A., Zeeshan. N. &ldquo;Potential involvement of mi-RNA 574-3p in progression of prostate cancer: A bioinformatic study.&rdquo;
-      <em>Mol. Cell Probes. </em>
-      <strong>36</strong>(11), 21-28 (<strong>2017</strong>).
+    <a href="https://napavalleyregister.com/announcements/grapevine/grapevine-kastner-receives-fellowship-for-cancer-research/article_daeeeb8e-fa9a-5e7d-89ab-02630eed2f67.html" target="_blank">
+    <strong>Title:</strong> <em>“Grapevine: Kastner receives fellowship for cancer research.”</em><br/>
+    <strong>Publisher:</strong> Napa Valley Register: Grapevine<br/>
+    <strong>Author:</strong> Kelly Doren<br/>
+    <strong>Date:</strong> 22 April 2019<br/>  
     </a>
   </td></tr>
 
   <tr><th></th><td>
-    <a href="https://pubs.acs.org/doi/abs/10.1021/acs.orglett.7b02455" target="_blank">Jalan, A., <u>Kastner, D. W.</u>, Webber, K. G. I., Smith, M., Price, J. L., Castle, S. L. &ldquo;Bulky Dehydroamino Acids Enhance Proteolytic Stability and Folding in β-Hairpin Peptides.&rdquo;
-      <em>Org. Lett. </em>
-      <strong>19</strong>(19), 5190-5193 (<strong>2018</strong>).
+    <a href="https://www.heraldextra.com/news/local/central/provo/rex-lee-run-unites-those-affected-and-impacted-by-cancer/article_7121deef-2bfa-5c38-8c19-2345dcc8913d.html" target="_blank">
+    <strong>Title:</strong> <em>“Rex Lee Run unites those affected and impacted by cancer.”</em><br/>
+    <strong>Publisher:</strong>Daily Herald<br/>
+    <strong>Author:</strong> Kurt Hanson<br/>
+    <strong>Date:</strong> 10 March 2019<br/>  
     </a>
-    <a style="color:blue" href="https://scholarsarchive.byu.edu/library_studentposters_2017/" target="_blank">[poster]</a>
   </td></tr>
 
+  <tr><th>2016</th><td>
+    <a href="https://napavalleyregister.com/news/local/napa-s-kastner-family-creates-artwork-for-new-dealership/article_f103ad6a-d46a-5510-9432-06cc021fb735.html" target="_blank">
+    <strong>Title:</strong> <em>“Napa's Kastner family creates artwork for new dealership.”</em><br/>
+    <strong>Publisher:</strong> Napa Valley Register<br/>
+    <strong>Author:</strong> Jennifer Huffman<br/>
+    <strong>Date:</strong> 29 July 2016<br/>  
+    </a>
+  </td></tr>
 </table>
