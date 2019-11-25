@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "News"
-permalink: /news/
+title: "Publications"
+permalink: /publications/
 author_profile: true
 ---
 
@@ -19,8 +19,6 @@ author_profile: true
       <strong>365</strong>(6453), (<strong>2019</strong>).
     </a>
     <a style="color:blue" href="https://chemrxiv.org/s/c3ceb27a7adb6d7e0acb" target="_blank">[preprint]</a>
-    <br/>
-    <em>The Journal of Organic Chemistry </em>
   </td></tr>
 
   <tr><th></th><td>
