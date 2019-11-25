@@ -23,8 +23,8 @@ author_profile: true
   <tr><th></th><td>
     <a href="https://napavalleyregister.com/announcements/grapevine/grapevines-kastner-chosen-as-commencement-speaker-at-byu/article_c57a228f-1f16-58c2-b068-ba68445f59e6.html" target="_blank">
     <strong>“Grapevines: Kastner Chosen as Commencement Speaker at BYU.''</strong> <br/>
-    Publisher: Haley Gray<br/>
-    Author: Napa Valley Register: Grapevine<br/>
+    Publisher: Napa Valley Register: Grapevine<br/>
+    Author: Haley Gray<br/>
     Date: 25 May 2019<br/>
     </a>
   </td></tr>
