@@ -1,26 +1,22 @@
 ---
 layout: archive
-title: "News"
+title: "News Articles"
 permalink: /news/
 author_profile: true
 ---
 
-<em>If you do not have journal access for any of the papers below, send me an email and I will gladly provide a copy of the manuscript.</em>
+<em>Links to noteworthy achievements and acknowledgments that appeared in the press. Click on the citations for links to the articles.</em>
 
 <hr class="styled-hr" style="width:100%;">
 
 <table>
 
   <tr><th>2019</th><td>
-    <a href="http://www.jbc.org/content/early/2019/11/05/jbc.RA119.011297" target="_blank">
-      Joaquin, D., Lee, M., <u>Kastner, W. D.,</u> Singh, J., Shardon, D., Damstedt, G., Castle, S.
-      &ldquo;Impact of Dehydroamino Acids on the Structure and Stability of Incipient 3<sub></sub>10-Helical Peptides&rdquo;
-      <em>The Journal of Organic Chemistry </em>
-      <strong>365</strong>(6453), (<strong>2019</strong>).
+    <a href="https://napavalleyregister.com/announcements/grapevine/grapevines-kastner-chosen-as-commencement-speaker-at-byu/article_c57a228f-1f16-58c2-b068-ba68445f59e6.html" target="_blank">
+    <strong>Title:</strong> <em>“Grapevines: Kastner Chosen as Commencement Speaker at BYU.”</em>
+    <strong>Publisher:</strong> Napa Register Grapevines
+    <strong>Date:</strong> 25 May 2019
     </a>
-    <a style="color:blue" href="https://chemrxiv.org/s/c3ceb27a7adb6d7e0acb" target="_blank">[preprint]</a>
-    <br/>
-    <em>The Journal of Organic Chemistry </em>
   </td></tr>
 
   <tr><th></th><td>
