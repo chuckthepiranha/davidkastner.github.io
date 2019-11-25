@@ -50,19 +50,19 @@ author_profile: true
 
   <tr><th></th><td>
     <a href="https://www.heraldextra.com/news/local/central/provo/rex-lee-run-unites-those-affected-and-impacted-by-cancer/article_7121deef-2bfa-5c38-8c19-2345dcc8913d.html" target="_blank">
-    <strong>Title:</strong> <em>“Rex Lee Run unites those affected and impacted by cancer.”</em><br/>
-    <strong>Publisher:</strong>Daily Herald<br/>
-    <strong>Author:</strong> Kurt Hanson<br/>
-    <strong>Date:</strong> 10 March 2019<br/>  
+    <strong>“Rex Lee Run unites those affected and impacted by cancer.”</strong><br/>
+    Publisher: Daily Herald<br/>
+    Author: Kurt Hanson<br/>
+    Date: 10 March 2019<br/>  
     </a>
   </td></tr>
 
   <tr><th>2016</th><td>
     <a href="https://napavalleyregister.com/news/local/napa-s-kastner-family-creates-artwork-for-new-dealership/article_f103ad6a-d46a-5510-9432-06cc021fb735.html" target="_blank">
-    <strong>Title:</strong> <em>“Napa's Kastner family creates artwork for new dealership.”</em><br/>
-    <strong>Publisher:</strong> Napa Valley Register<br/>
-    <strong>Author:</strong> Jennifer Huffman<br/>
-    <strong>Date:</strong> 29 July 2016<br/>  
+    <strong>“Napa's Kastner family creates artwork for new dealership.”</strong><br/>
+    Publisher: Napa Valley Register<br/>
+    Author: Jennifer Huffman<br/>
+    Date: 29 July 2016<br/>  
     </a>
   </td></tr>
 </table>
